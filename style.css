@@ -9,7 +9,7 @@ h2{
 }
 div{
     width: 25%;
-    height: 400px;
+    height: auto;
     background-color: rgb(99, 99, 4);
     margin-right: 5px;
     padding: 10px;
