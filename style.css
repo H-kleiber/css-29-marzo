@@ -1,8 +1,9 @@
 header{
     text-align: center;
 }
-section{
+.section1{
     display: flex;
+    margin-bottom: 10px;
 }
 h2{
     font-size: 18px;
@@ -31,4 +32,7 @@ div{
     background-color: blue;
     border: solid 5px rgb(9, 255, 0);
 
+}
+.section2{
+    display: flex;
 }
